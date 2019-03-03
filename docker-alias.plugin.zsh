@@ -2,6 +2,8 @@
 # Docker alias and function
 # ------------------------------------
 
+alias dk="docker"
+
 # Get latest container ID
 alias dl="docker ps -l -q"
 
